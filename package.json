@@ -28,7 +28,7 @@
     "@nestjs/platform-express": "^6.0.0",
     "aws-lambda": "^0.1.2",
     "aws-serverless-express": "^3.3.5",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "mongoose": "^5.6.13",
     "reflect-metadata": "^0.1.12",
     "rimraf": "^2.6.2",
